@@ -4,11 +4,12 @@ Showing the final results of workshop through various graphs,like bar garphs and
 Using Navie Bias Algorithm the final positive, negative and total score is given.
 
 # Project SetUp Requirements:-
-1)Jupyter Notebook.
+1)Fork the repository.
 
-2)Fork the repository.
+2)Download the ipynb file and data set.
 
-3)Download the ipynb file and data set.
+3)Upload it on jupyter Notebooks.
 
-4)Run the file. 
+4)Run the file
+
 
