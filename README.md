@@ -5,6 +5,7 @@ Using Navie Bias Algorithm the final positive, negative and total score is given
 
 # Project SetUp Requirements:-
 1)Jupyter Notebook.
+
 2)Fork the repository.
 3)Download the ipynb file and data set.
 4)Run the file. 
