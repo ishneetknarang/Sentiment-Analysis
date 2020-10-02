@@ -1,6 +1,6 @@
 # Sentiment-Analysis
 To count no of Positive and Negative Reviews Of a survey/workshop conducted.
-Showing the final results of workshop through various graphs,like bar garphs and  pie charts.
+Showing the final results of workshop through various graphs,like bar garphs,scatter plot  and  pie charts.
 Using Navie Bias Algorithm the final positive, negative and total score is given.
 
 # Project SetUp Requirements:-
